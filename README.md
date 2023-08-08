@@ -33,10 +33,10 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 - 📫 How to reach me: ...
 - 
 <div display="flex">
-  <a href="[https://www.linkedin.com/in/codewithbernard/]
-    (https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)"
+  <a href="https://www.hackerrank.com/djougancharlen">
+    <img src=" https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
   </a>
-  
+ 
   
 </div>
 - 😄 Pronouns: SHE
