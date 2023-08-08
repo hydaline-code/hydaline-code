@@ -21,10 +21,11 @@
 
 
 ### 🔭 I’m working on
-   <h2>Projects for freelance </h2>
-    <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance" width="50vw"/>
-- Growing [My blog ](https://www.blogger.com/blog/posts/1846895115721994367) to 1k subscribers.
--<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="netlitify"/>
+   <h2>Projects for freelance 
+    <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance" width="100px"/>
+    </h2>
+<h2>**A personal project website for kids and tech in Africa **</h2>
+<p>Information transmission with <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="netlitify"/></p>
 
 
 ### 🌱 I’m currently learning ...
