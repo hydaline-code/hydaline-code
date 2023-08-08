@@ -21,19 +21,19 @@
 
 ### 🔭 I’m working on
    <h2>Projects for freelance </h2>
-  <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance"/>
+    <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance" width="50px"/>
 - Growing [My blog ](https://www.blogger.com/blog/posts/1846895115721994367) to 1k subscribers.
- <li > <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="netlitify"/>Website free hosting</li>
+-<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="netlitify"/>
 
 
 - 🌱 I’m currently learning ...
    <div display="flex">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-- 💬 Ask me about : Web development
+- 💬 Ask me about: Anything in Web development
 
 - 📫 How to reach me
   <div display="flex">
