@@ -1,4 +1,4 @@
-### 👋                                   ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
+### 👋                                ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
 
 
 ### 👩 Who am I
