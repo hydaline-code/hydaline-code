@@ -51,7 +51,8 @@
   </a>
 </div>
 
-### 😄 Pronouns...  <p>She</p>
+### 😄 Pronouns... 
+   <h5> She</h5>
 ### ⚡ Fun fact... 
  <p>Express my creativity through drawing and photography</p>
 
