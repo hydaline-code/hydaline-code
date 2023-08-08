@@ -52,7 +52,8 @@
   </a>
 </div>
 
-### 😄 Pronouns: SHE
-
-### ⚡ Fun fact: LOVE TO DRAW ✍ AND DO PHOTOGRAPHY 
+### 😄 Pronouns...
+  She
+### ⚡ Fun fact... 
+Express my creativity through drawing and photography. 
 
