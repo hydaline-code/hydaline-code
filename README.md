@@ -53,7 +53,8 @@
 </div>
 
 ### 😄 Pronouns...
-  <li>She</li>
+  <p>She</p>
+  
 ### ⚡ Fun fact... 
- <li> Express my creativity through drawing and photography.</li>
+ <p>Express my creativity through drawing and photography</p>
 
