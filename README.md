@@ -8,7 +8,7 @@
   <li >Creating Engaging Websites</li>
 </ul>
 
-**I am comfortable working with**
+**I am comfortable working with**👩‍💻
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
@@ -34,9 +34,10 @@
    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-- 💬 Ask me about: Anything in Web development
+### 💬 Ask me about...
+  <h6> Anything in Web development </h6>
 
-- 📫 How to reach me
+### 📫 How to reach me
   <div display="flex">
  <a href="https://www.linkedin.com/in/hydaline-djougang-0851aa21a/">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -49,7 +50,7 @@
   </a>
 </div>
 
-- 😄 Pronouns: SHE
+### 😄 Pronouns: SHE
 
-- ⚡ Fun fact: LOVE TO DRAW AND DO PHOTOGRAPHY
+### ⚡ Fun fact: LOVE TO DRAW ✍ AND DO PHOTOGRAPHY 
 
