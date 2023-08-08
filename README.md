@@ -1,8 +1,15 @@
-### Hi there 👋
+### 👋
+✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
-**I love working with**
+### How to define me professionally
+<ul class="list-group">
+  <li class="list-group-item active" aria-current="true">Software Developer</li>
+  <li class="list-group-item"> HTML, CSS, JavaScript Enthusiast</li>
+  <li class="list-group-item">Creating Engaging Websites</li>
+</ul>
+
+**I am comfortable working with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -42,6 +49,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
+
 - 😄 Pronouns: SHE
 
 - ⚡ Fun fact: LOVE JOKES
