@@ -1,40 +1,39 @@
-### 👋  ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
+### 👋                                   ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
 
-### How to define myself professionally
 
+### Who am I
 <ul class="list-group">
- <li> *Software Developer*</li>
-  <li> HTML, CSS, JavaScript Enthusiast</li>
+ <li>Software Developer</li>
+  <li> HTML, CSS and JavaScript Enthusiast</li>
   <li >Creating Engaging Websites</li>
 </ul>
 
 **I am comfortable working with**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Saas"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
 </div>
 
-- 🔭 I’m currently working on ...
-
 ### 🔭 I’m working on
+   <h2>Projects for freelance </h2>
+  <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance"/>
+- Growing [My blog ](https://www.blogger.com/blog/posts/1846895115721994367) to 1k subscribers.
+ <li > <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="netlitify"/>Website free hosting</li>
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
 - 🌱 I’m currently learning ...
    <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-- 👯 I’m looking to collaborate on ...
-
-- 💬 Ask me about ...
+- 💬 Ask me about : Web development
 
 - 📫 How to reach me
   <div display="flex">
@@ -51,5 +50,5 @@
 
 - 😄 Pronouns: SHE
 
-- ⚡ Fun fact: LOVE JOKES
+- ⚡ Fun fact: LOVE TO DRAW AND DO PHOTOGRAPHY
 
