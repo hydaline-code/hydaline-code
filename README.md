@@ -34,7 +34,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 - 
 <div display="flex">
   <a href="https://www.hackerrank.com/djougancharlen">
-    <img src=" https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
   </a>
  
   
