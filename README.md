@@ -1,10 +1,9 @@
-### 👋
-✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
+### 👋 | ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
 
+### How to define myself professionally
 
-### How to define me professionally
 <ul class="list-group">
-  <li class="list-group-item active" aria-current="true">Software Developer</li>
+ <li class="list-group-item" style="color: yellow;">**Software Developer**</li>
   <li class="list-group-item"> HTML, CSS, JavaScript Enthusiast</li>
   <li class="list-group-item">Creating Engaging Websites</li>
 </ul>
