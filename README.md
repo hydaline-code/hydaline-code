@@ -25,8 +25,8 @@
     <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance" width="100px"/>
     </h5>
 <h5>A personal project website for kids and tech in Africa</h5>
-<p>Information transmission with...
- <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="netlitify"/></p>
+<h5>Information transmission with...
+ <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="json web token"/></h5>
 
 
 ### 🌱 I’m currently learning ...
