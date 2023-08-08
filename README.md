@@ -1,7 +1,7 @@
 ### 👋                                   ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
 
 
-### Who am I
+### 👩 Who am I
 <ul class="list-group">
  <li>Software Developer</li>
   <li> HTML, CSS and JavaScript Enthusiast</li>
@@ -51,8 +51,7 @@
   </a>
 </div>
 
-### 😄 Pronouns...
-  <p>She</p>
+### 😄 Pronouns...  <p>She</p>
 ### ⚡ Fun fact... 
  <p>Express my creativity through drawing and photography</p>
 
