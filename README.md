@@ -19,14 +19,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
 </div>
 
+
 ### 🔭 I’m working on
    <h2>Projects for freelance </h2>
-    <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance" width="50px"/>
+    <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance" width="50vw"/>
 - Growing [My blog ](https://www.blogger.com/blog/posts/1846895115721994367) to 1k subscribers.
 -<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="netlitify"/>
 
 
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
    <div display="flex">
    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
