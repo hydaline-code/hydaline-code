@@ -22,7 +22,7 @@
 
 ### 🔭 I’m working on
    <h5>Projects for freelance 
-    <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance" width="100px"/>
+    <img src="https://socialmediaexplorer.com/wp-content/uploads/2021/12/freelance-websites.png" alt="freelance" width="150px"/>
     </h5>
 <h5>A personal project website for kids and tech in Africa</h5>
 <h5>Information transmission with...
@@ -53,7 +53,7 @@
 </div>
 
 ### 😄 Pronouns...
-  She
+  -She
 ### ⚡ Fun fact... 
-Express my creativity through drawing and photography. 
+ -Express my creativity through drawing and photography. 
 
