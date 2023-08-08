@@ -52,7 +52,7 @@
 </div>
 
 ### 😄 Pronouns... 
-   <h5> She</h5>
-### ⚡ Fun fact... 
+   <p> She</p>
+⚡ Fun fact... 
  <p>Express my creativity through drawing and photography</p>
 
