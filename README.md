@@ -22,7 +22,7 @@
 
 ### 🔭 I’m working on
   <h5>Projects for freelance  </h5>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="freelance" width="150px"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 <h5>A personal project website for kids and tech in Africa</h5>
     <h5>Information transmission with...
     <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="json web token"/></h5>
