@@ -1,10 +1,8 @@
-# Hi there, I'm [Hydaline] 👋
+# Hi there, I'm Hydaline 👋
 
  ✨ Passionate  Developer | Exploring the World of Code  ✨
 
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300" height="200" />
-
-
 
 🚀 **About Me:**
  I'm a motivated developer who enjoys crafting clean code and building exciting projects. Even though I began in electrotechnics, my fascination with technology drew me into the world of software development. Currently, I'm furthering  my skills at Microverse, working towards becoming a skilled remote software developer.
@@ -39,9 +37,8 @@
 - [Twitter](https://twitter.com/hydalineC)
 
 
-
 📫 **Get in Touch:**
 I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at [djougancharlen@gmail.com.com].
 
 🚀 **Let's Collaborate:**
-If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something amazing!
+If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something nice!
