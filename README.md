@@ -2,7 +2,7 @@
 
  ✨ Passionate  Developer | Exploring the World of Code  ✨
 
-![GIF](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif)
+![Header](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif)
 
 
 🚀 **About Me:**
