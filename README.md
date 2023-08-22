@@ -38,15 +38,8 @@
 - LinkedIn: [https://www.linkedin.com/in/charlene-djoungang-0851aa21a/]
 -Twitter: [https://twitter.com/hydalineC]
 
-📈 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hydaline-code)
-
-
-📊 **Top Languages:**
-![Top Languages](your-GitHub-top-languages-badge)
-
 📫 **Get in Touch:**
-I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at [your-email@example.com].
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at [djougancharlen@gmail.com].
 
 🚀 **Let's Collaborate:**
 If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something amazing!
