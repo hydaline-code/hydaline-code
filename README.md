@@ -2,7 +2,8 @@
 
  ✨ Passionate  Developer | Exploring the World of Code  ✨
 
-![Header](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif){ width=300 height=200 }
+<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300" height="200" />
+
 
 
 🚀 **About Me:**
