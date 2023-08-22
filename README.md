@@ -1,6 +1,6 @@
 ### 👋                                ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api? text=Hey Everyone!🕹️/>
+  <img src="https://capsule-render.vercel.app/api?🕹️/>
 </p>
 
 ### 👩 Who am I
