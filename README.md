@@ -8,7 +8,7 @@
  I'm a motivated developer who enjoys crafting clean code and building exciting projects. Even though I began in electrotechnics, my fascination with technology drew me into the world of software development. Currently, I'm furthering  my skills at Microverse, working towards becoming a skilled remote software developer.
  
 🌟 **Highlights:**
-- 🎓 Studying at [Microverse] where I code for 8 hours a day, collaborating remotely with talented developers world wide.
+- 🎓 Studying at **Microverse** where I code for 8 hours a day, collaborating remotely with talented developers world wide.
 - 💼 Created a portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
 - 🌐 I've been busy working on personal projects to enhance my coding skills and continuously improve as a developer.
 
@@ -38,7 +38,7 @@
 
 
 📫 **Get in Touch:**
-I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at [djougancharlen@gmail.com].
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at **djougancharlen@gmail.com**
 
 🚀 **Let's Collaborate:**
 If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something nice!
