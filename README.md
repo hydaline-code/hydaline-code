@@ -2,8 +2,7 @@
 
  ✨ Passionate  Developer | Exploring the World of Code  ✨
 
-![Header]
-<iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/PI3QGKFN6XZUCMMqJm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">via GIPHY</a></p>
 
 🚀 **About Me:**
 I'm a self-motivated developer with a passion for crafting clean code and meaningful projects. My journey in the world of tech started as an [your previous background, e.g., electrotechnics graduate], but my curiosity and fascination with technology led me to pursue a career in software development.
