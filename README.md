@@ -2,7 +2,7 @@
 
  ✨ Passionate  Developer | Exploring the World of Code  ✨
 
-![Header](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif){: width="300" height="200" }
+![Header](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif){ width=300 height=200 }
 
 
 🚀 **About Me:**
@@ -28,23 +28,15 @@
 </div>
 
 🚀 **Projects:**
-1. [Books-Library](link-to-project-1) - A simple book library built using JavaScript and incorporating ES6 modules.
-   ![Project 1 Demo](project-1-gif-url)
+1. [Books-Library](https://github.com/hydaline-code/Awesomebooks_part2)- A simple book library built using JavaScript and incorporating ES6 modules.
    
-2. [Project 2](link-to-project-2) - A simple ToDo List built using JavaScript and Webpack, featuring essential CRUD functionality for managing tasks.
-   ![Project 2 Demo](project-2-gif-url)
+2. [Todo List](https://github.com/hydaline-code/Todo-List)- A simple ToDo List built using JavaScript and Webpack, featuring essential CRUD functionality for managing tasks.
+  
 
 🌐 **Connect with Me:**
 - [LinkedIn](<a href="https://www.linkedin.com/in/hydaline-djougang-0851aa21a/">)
-- [Portfolio](your-portfolio-website)
 - [Twitter](your-twitter-profile)
 
-💻 **GitHub Contributions:**
-![GitHub Contributions](your-GitHub-contribution-graph)
-
-🌟 **Organizations:**
-- [Organization 1](link-to-organization-1)
-- [Organization 2](link-to-organization-2)
 
 📈 **GitHub Stats:**
 ![GitHub Stats](your-GitHub-stats-badge)
