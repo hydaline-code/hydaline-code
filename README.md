@@ -38,7 +38,7 @@
 
 
 📫 **Get in Touch:**
-I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at [djougancharlen@gmail.com.com].
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at [djougancharlen@gmail.com].
 
 🚀 **Let's Collaborate:**
 If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something nice!
