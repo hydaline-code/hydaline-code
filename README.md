@@ -1,58 +1,47 @@
-### 👋                                ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?🕹️/>
-</p>
+# Hi there, I'm [Your Name] 👋
 
-### 👩 Who am I
-<ul class="list-group">
- <li>Software Developer</li>
-  <li> HTML, CSS and JavaScript Enthusiast</li>
-  <li >Creating Engaging Websites</li>
-</ul>
+Passionate Software Developer | Open Source Enthusiast
 
-**I am comfortable working with**👩‍💻
+![Header](header-gif-url)
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Saas"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-</div>
+🚀 **About Me:**
+I'm a self-motivated developer with a passion for crafting clean code and meaningful projects. My journey in the world of tech started as an [your previous background, e.g., electrotechnics graduate], but my curiosity and fascination with technology led me to pursue a career in software development.
 
+🌟 **Highlights:**
+- 🎓 Studying at [Online Training School] where I code for 8 hours a day, collaborating remotely with talented developers.
+- 💼 Created a portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
+- 🌐 Actively contributing to open-source projects, building a strong developer community.
 
-### 🔭 I’m working on
-   <p>Developping apps using <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>  </p> 
-<p>Information transmission with...
-    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="json web token"/> </p>
+🛠️ **Tech Stack:**
+JavaScript | HTML | CSS | [Add other relevant technologies]
 
+🚀 **Projects:**
+1. [Project 1](link-to-project-1) - A brief description of the project's purpose and features.
+   ![Project 1 Demo](project-1-gif-url)
+   
+2. [Project 2](link-to-project-2) - Highlight key aspects of this project.
+   ![Project 2 Demo](project-2-gif-url)
 
-### 🌱 I’m currently learning ...
-   <div display="flex">
-   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</div>
+🌐 **Connect with Me:**
+- [LinkedIn](your-linkedin-profile)
+- [Portfolio](your-portfolio-website)
+- [Twitter](your-twitter-profile)
 
-### 💬 Ask me about...
-  <h6> Anything me anything in Frontend development as a Junior Frontend-developer </h6>
+💻 **GitHub Contributions:**
+![GitHub Contributions](your-GitHub-contribution-graph)
 
-### 📫 How to reach me
-  <div display="flex">
- <a href="https://www.linkedin.com/in/hydaline-djougang-0851aa21a/">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/djougancharlen">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@joanchacha01">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
+🌟 **Organizations:**
+- [Organization 1](link-to-organization-1)
+- [Organization 2](link-to-organization-2)
 
-😄 Pronouns... 
-   <p> She</p>
-⚡ Fun fact... 
- <p>Express my creativity through drawing and photography</p>
+📈 **GitHub Stats:**
+![GitHub Stats](your-GitHub-stats-badge)
 
+📊 **Top Languages:**
+![Top Languages](your-GitHub-top-languages-badge)
+
+📫 **Get in Touch:**
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at [your-email@example.com].
+
+🚀 **Let's Collaborate:**
+If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something amazing!
