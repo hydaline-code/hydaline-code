@@ -9,7 +9,7 @@
  I'm a motivated developer who enjoys crafting clean code and building exciting projects. Even though I began in electrotechnics, my fascination with technology drew me into the world of software development. Currently, I'm furthering  my skills at Microverse, working towards becoming a skilled remote software developer.
  
 🌟 **Highlights:**
-- 🎓 Studying at [Online Training School] where I code for 8 hours a day, collaborating remotely with talented developers.
+- 🎓 Studying at [Microverse] where I code for 8 hours a day, collaborating remotely with talented developers world wide.
 - 💼 Created a portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
 - 🌐 I've been busy working on personal projects to enhance my coding skills and continuously improve as a developer.
 
@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Saas"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></div>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></div>
   
  👩‍💻 **I am comfortable working with**
 <div display="flex">
@@ -26,18 +27,15 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
 </div>
 
-
-
-
 🚀 **Projects:**
-1. [Project 1](link-to-project-1) - A brief description of the project's purpose and features.
+1. [Books-Library](link-to-project-1) - A simple book library built using JavaScript and incorporating ES6 modules.
    ![Project 1 Demo](project-1-gif-url)
    
-2. [Project 2](link-to-project-2) - Highlight key aspects of this project.
+2. [Project 2](link-to-project-2) - A simple ToDo List built using JavaScript and Webpack, featuring essential CRUD functionality for managing tasks.
    ![Project 2 Demo](project-2-gif-url)
 
 🌐 **Connect with Me:**
-- [LinkedIn](your-linkedin-profile)
+- [LinkedIn](<a href="https://www.linkedin.com/in/hydaline-djougang-0851aa21a/">)
 - [Portfolio](your-portfolio-website)
 - [Twitter](your-twitter-profile)
 
