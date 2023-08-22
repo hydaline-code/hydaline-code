@@ -35,12 +35,12 @@
   
 
 🌐 **Connect with Me:**
-- [LinkedIn](<a href="https://www.linkedin.com/in/hydaline-djougang-0851aa21a/">)
-- [Twitter](your-twitter-profile)
-
+- LinkedIn: [https://www.linkedin.com/in/charlene-djoungang-0851aa21a/]
+-Twitter: [https://twitter.com/hydalineC]
 
 📈 **GitHub Stats:**
-![GitHub Stats](your-GitHub-stats-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hydaline-code)
+
 
 📊 **Top Languages:**
 ![Top Languages](your-GitHub-top-languages-badge)
