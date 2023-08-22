@@ -1,5 +1,7 @@
 ### 👋                                ✨ Passionate Developer | Exploring the World of Code | hydalinecode ✨
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ### 👩 Who am I
 <ul class="list-group">
@@ -21,11 +23,9 @@
 
 
 ### 🔭 I’m working on
-  <h5>Projects for freelance  </h5>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-<h5>A personal project website for kids and tech in Africa</h5>
-    <h5>Information transmission with...
-    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="json web token"/></h5>
+   <p>Developping apps using <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>  </p> 
+<p>Information transmission with...
+    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="json web token"/> </p>
 
 
 ### 🌱 I’m currently learning ...
@@ -36,7 +36,7 @@
 </div>
 
 ### 💬 Ask me about...
-  <h6> Anything in Web development </h6>
+  <h6> Anything me anything in Frontend development as a Junior Frontend-developer </h6>
 
 ### 📫 How to reach me
   <div display="flex">
