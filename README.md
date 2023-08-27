@@ -8,7 +8,7 @@
 
 🚀 **About Me:**
 <p align="left"> 
- ### I'm a super excited developer who loves whipping up neat code and turning cool ideas into awesome projects.
+**I'm a continuous learner** who loves whipping up neat code and turning cool ideas into awesome projects.
 
 **How did I land here?** Well, my love for tech sparked this journey into software development. I'm all about using technology to tackle tricky problems and make things happen.
 
