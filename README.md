@@ -7,8 +7,8 @@
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300" height="200" />
 
 🚀 **About Me:**
- I'm a super excited developer who loves whipping up neat code and turning cool ideas into awesome projects. How did I land here? Well, my love for tech sparked this journey into software development. I'm all about using technology to tackle tricky problems and make things happen.
-Right now, you'll find me totally immersed at [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer. Oh, and a fun fact – I've got a background in electrotechnics that's given me some serious problem-solving mojo. It's all about that knack for excellence in this dynamic field!
+<p align='left'> I'm a super excited developer who loves whipping up neat code and turning cool ideas into awesome projects. How did I land here? Well, my love for tech sparked this journey into software development. I'm all about using technology to tackle tricky problems and make things happen.
+Right now, you'll find me totally immersed at [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer. Oh, and a fun fact – I've got a background in electrotechnics that's given me some serious problem-solving mojo. It's all about that knack for excellence in this dynamic field! </p>
  
 🌟 **Highlights:**
 - 🎓 Studying at **Microverse** where I code for 8 hours a day, collaborating remotely with talented developers worldwide.
