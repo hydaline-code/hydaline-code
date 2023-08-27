@@ -63,7 +63,7 @@
 <div width="100%"  height="500px"  >
 <p style="display: flex; justify-content: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="50%"src="https://github-contribution-stats.vercel.app/api/?username=hydaline-code" /> 
-</div>
+</div> 
 
 
 
