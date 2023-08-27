@@ -9,9 +9,9 @@
 🚀 **About Me:**
 <p align="left"> 
  
-**I'm a continuous learner** who loves whipping up neat code and turning cool ideas into awesome projects.
-**How did I land here?** Well, my love for tech sparked this journey into software development. I'm all about using technology to tackle tricky problems and make things happen.
-**Right now**, you'll find me totally immersed at [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer.
+**I'm a continuous learner** who loves whipping up neat code and turning cool ideas into awesome projects. <br>
+**How did I land here?** Well, my love for tech sparked this journey into software development. I'm all about using technology to tackle tricky problems and make things happen. <br>
+**Right now**, you'll find me totally immersed at [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer. <br>
 **Oh**, and a <strong> fun fact </strong>– Open to crafting my creativity in this dynamic field! </p>
  
 🌟 **Highlights:**
