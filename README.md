@@ -1,11 +1,9 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Hydaline Djougang </strong></samp></h2>
 
- ✨ Passionate  Developer | Exploring the World of Code  ✨
-
-
+ ✨ Passionate  Developer | Exploring the World of Code | Together we create better ✨
 
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" height="200" />
-<img src"https://giphy.com/embed/L1R1tvI9svkIWwpVYr"/>
+<iframe src="https://giphy.com/embed/NC8i34AU5UxWMHVxyU" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Dashpay-digital-dash-dashpay-NC8i34AU5UxWMHVxyU">via GIPHY</a></p>
 
 🚀 **About Me:**
 <p align="left"> 
