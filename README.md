@@ -46,4 +46,4 @@ I'm always open to discussing new projects, ideas, or opportunities. Feel free t
 If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something nice!
 
 📝 **Stats's:**
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-hydaline-code-summary-cards-example/master/hydaline-code-summary-card-output/bear/3-stats.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/bear/3-stats.svg)
