@@ -40,7 +40,8 @@
 
 
 📫 **Get in Touch:**
-I'm always open to discussing new projects, ideas, or opportunities. Feel free to reach out to me at **djougancharlen@gmail.com**
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/hydaline-code?label=Follow%20Me&style=social)](https://github.com/ydaline-code)
+<be> I'm always open to discussing new projects, ideas, or opportunities.**djougancharlen@gmail.com**
 
 🚀 **Let's Collaborate:**
 If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something nice!
@@ -58,8 +59,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
-<br>
+
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
 [![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
