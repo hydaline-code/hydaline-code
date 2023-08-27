@@ -2,7 +2,7 @@
 
  ✨ Passionate  Developer | Exploring the World of Code | Together we create better ✨
 
-<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="100%" height="500" />
+<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="100%" height="300px" />
 
 🚀 **About Me:**
 <p align="left"> 
@@ -14,7 +14,7 @@
  
 🌟 **Highlights:**
 - 💼 Customizing my portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
-- 🌐 I've been busy working on valuable projects to enhance my coding skills and to show case my abilities.
+- 🌐 I've been busy working on valuable projects to enhance my coding skills and to showcase my abilities.
 
 🛠️ **Tech Stack:**
 
@@ -60,9 +60,9 @@
 <be> I'm always open to discussing new projects, ideas, or opportunities.**djougancharlen@gmail.com**
 
 ✨***Looking forward to the next coding adventure!*** ✨
-<div>
+<div width="100%" >
 <p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="100%" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=hydaline-code" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="100%" height="100%" src="https://github-contribution-stats.vercel.app/api/?username=hydaline-code" />
 </div>
 
 
