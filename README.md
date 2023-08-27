@@ -41,24 +41,33 @@
 </div>
 
 🚀 **Projects:**
+
 1. [Books-Library](https://github.com/hydaline-code/Awesomebooks_part2)- A simple book library built using JavaScript and incorporating ES6 modules.
    
 2. [Todo List](https://github.com/hydaline-code/Todo-List)- A simple ToDo List built using JavaScript and Webpack, featuring essential CRUD functionality for managing tasks.
-  
 
+🤓 **Interested:** <br>
+
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
+  
 🌐 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/charlene-djoungang-0851aa21a/)
 - [Twitter](https://twitter.com/hydalineC)
 
-
-📫 **Get in Touch:**
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/hydaline-code?label=Follow%20Me&style=social)](https://github.com/ydaline-code)
+🚀 **Let's Collaborate:**
+📝 ***Feel free to contact me. don't hesitate to get in touch. Let's build something nice! I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/hydaline-code?label=Follow%20Me&style=social)](https://github.com/ydaline-code)
 <be> I'm always open to discussing new projects, ideas, or opportunities.**djougancharlen@gmail.com**
 
-🚀 **Let's Collaborate:**
-If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something nice!
+✨***Looking forward to the next coding adventure!*** ✨
 
-Looking forward to the next coding adventure! ✨
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
 
 
 <!--
@@ -115,20 +124,11 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
 
 
-🤓 **Interested:** <br>
 
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
 
 <!-- ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
 
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
+
