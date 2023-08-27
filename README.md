@@ -2,7 +2,7 @@
 
  ✨ Passionate  Developer | Exploring the World of Code | Together we create better ✨
 
-<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="100%" height="200" />
+<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="100%" height="500" />
 
 🚀 **About Me:**
 <p align="left"> 
@@ -61,8 +61,8 @@
 
 ✨***Looking forward to the next coding adventure!*** ✨
 <div>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=hydaline-code" />
+<p style="display: flex; justify-content: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="100%" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=hydaline-code" />
 </div>
 
 
