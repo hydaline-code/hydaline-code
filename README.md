@@ -2,8 +2,7 @@
 
  ✨ Passionate  Developer | Exploring the World of Code | Together we create better ✨
 
-<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" height="200" />
-<iframe src="https://giphy.com/embed/NC8i34AU5UxWMHVxyU" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Dashpay-digital-dash-dashpay-NC8i34AU5UxWMHVxyU">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="100%" height="200" />
 
 🚀 **About Me:**
 <p align="left"> 
@@ -61,14 +60,11 @@
 <be> I'm always open to discussing new projects, ideas, or opportunities.**djougancharlen@gmail.com**
 
 ✨***Looking forward to the next coding adventure!*** ✨
-
-</br>
+<div>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=hydaline-code" />
+</div>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"></img></div>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
- <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href=">via GIPHY</a></p>
 
 
 
