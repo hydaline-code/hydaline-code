@@ -8,13 +8,11 @@
 
 🚀 **About Me:**
 <p align="left"> 
+ 
 **I'm a continuous learner** who loves whipping up neat code and turning cool ideas into awesome projects.
-
 **How did I land here?** Well, my love for tech sparked this journey into software development. I'm all about using technology to tackle tricky problems and make things happen.
-
-Right now, you'll find me totally immersed at [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer.
-
-*Oh, and a fun fact* – I've got a background in electrotechnics that's given me some serious problem-solving mojo. It's all about that knack for excellence in this dynamic field!</p>
+**Right now**, you'll find me totally immersed at [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer.
+**Oh**, and a <strong> fun fact </strong>– Open to crafting my creativity in this dynamic field! </p>
  
 🌟 **Highlights:**
 - 🎓 Studying at **Microverse** where I code for 8 hours a day, collaborating remotely with talented developers worldwide.
