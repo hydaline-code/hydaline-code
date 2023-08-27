@@ -60,7 +60,7 @@
 <be> I'm always open to discussing new projects, ideas, or opportunities.**djougancharlen@gmail.com**
 
 ✨***Looking forward to the next coding adventure!*** ✨
-<div height="100%" >
+<div width="100%" >
 <p style="display: flex; justify-content: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="100%" height="500px" src="https://github-contribution-stats.vercel.app/api/?username=hydaline-code" />
 </div>
