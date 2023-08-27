@@ -11,15 +11,19 @@
  
 **I'm a continuous learner** who loves whipping up neat code and turning cool ideas into awesome projects. <br>
 **How did I land here?** Well, my love for tech sparked this journey into software development. I'm all about using technology to tackle tricky problems and make things happen. <br>
-**Right now**, you'll find me totally immersed at [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer. <br>
+**Right now**, you'll find me totally immersed at 🎓 [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer. <br>
 **Oh**, and a <strong> fun fact </strong>– Open to crafting my creativity in this dynamic field! </p>
  
 🌟 **Highlights:**
-- 🎓 Studying at **Microverse** where I code for 8 hours a day, collaborating remotely with talented developers worldwide.
-- 💼 Created a portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
-- 🌐 I've been busy working on personal projects to enhance my coding skills and continuously improve as a developer.
+- 💼 Customizing my portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
+- 🌐 I've been busy working on valuable projects to enhance my coding skills and to show case my abilities.
 
 🛠️ **Tech Stack:**
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 <div display="flex">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
