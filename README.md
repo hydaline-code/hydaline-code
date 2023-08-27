@@ -1,4 +1,4 @@
-# Hi there, I'm Hydaline 👋
+<h2 align='center'><samp><strong>Hi there 👋, I am Hydaline Djougang </strong></samp></h2>
 
  ✨ Passionate  Developer | Exploring the World of Code  ✨
 
@@ -7,16 +7,17 @@
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300" height="200" />
 
 🚀 **About Me:**
- I'm a motivated developer who enjoys crafting clean code and building exciting projects. Even though I began in electrotechnics, my fascination with technology drew me into the world of software development. Currently, I'm furthering  my skills at Microverse, working towards becoming a skilled remote software developer.
+ I'm a super excited developer who loves whipping up neat code and turning cool ideas into awesome projects. How did I land here? Well, my love for tech sparked this journey into software development. I'm all about using technology to tackle tricky problems and make things happen.
+Right now, you'll find me totally immersed at [Microverse](https://www.microverse.org/), sharpening my skills to rock as a remote software developer. Oh, and a fun fact – I've got a background in electrotechnics that's given me some serious problem-solving mojo. It's all about that knack for excellence in this dynamic field!
  
 🌟 **Highlights:**
-- 🎓 Studying at **Microverse** where I code for 8 hours a day, collaborating remotely with talented developers world wide.
+- 🎓 Studying at **Microverse** where I code for 8 hours a day, collaborating remotely with talented developers worldwide.
 - 💼 Created a portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.
 - 🌐 I've been busy working on personal projects to enhance my coding skills and continuously improve as a developer.
 
 🛠️ **Tech Stack:**
 <div display="flex">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Saas"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
@@ -46,8 +47,7 @@
 🚀 **Let's Collaborate:**
 If you're looking to work together on exciting projects, or just want to connect, don't hesitate to get in touch. Let's build something nice!
 
-📝 **Stats's:**
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/bear/3-stats.svg)
+Looking forward to the next coding adventure! ✨
 
 
 <!--
@@ -70,7 +70,7 @@ https://simpleicons.org/
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Ahmad Sawalqeh</strong></samp></h2>
+
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
