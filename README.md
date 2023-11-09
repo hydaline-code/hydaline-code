@@ -1,8 +1,6 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Hydaline Djougang </strong></samp></h2>
 
- ✨ Passionate  Developer | Exploring the World of Code | Together we create better ✨
-
-<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="100%" height="300px"/>
+ ✨ A  Dev-Designer | Exploring the World of Code | Together we create better ✨
 
 🚀 **About Me:**
 <p align="left"> 
